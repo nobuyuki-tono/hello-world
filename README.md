@@ -1,5 +1,8 @@
 # hello-world
 Test git-hub
+
+This is test to check the git command.
+
 <!DOCTYPE html>
 <html>
   <head>
